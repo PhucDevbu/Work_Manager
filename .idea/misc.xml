@@ -8,6 +8,7 @@
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable-v24/background_note_color_4.xml" value="0.23941368078175895" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable-v24/background_note_color_5.xml" value="0.23941368078175895" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_add_button.xml" value="0.23941368078175895" />
+        <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_delete.xml" value="0.24177631578947367" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_dialog.xml" value="0.24177631578947367" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_done_button.xml" value="0.23941368078175895" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_miscellaneous.xml" value="0.23941368078175895" />
@@ -15,10 +16,12 @@
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_note_color_1.xml" value="0.23941368078175895" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_search.xml" value="0.24177631578947367" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.23941368078175895" />
+        <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/drawable/ic_delete.xml" value="0.24177631578947367" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/activity_create_note.xml" value="0.23157894736842105" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/item_container_note.xml" value="0.23157894736842105" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/layout_add_url.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/layout_delete_note.xml" value="0.23157894736842105" />
         <entry key="..\:/Users/Phuc/AndroidStudioProjects/WorkManager/app/src/main/res/layout/layout_miscellaneous.xml" value="0.23157894736842105" />
       </map>
     </option>
